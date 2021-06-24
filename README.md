@@ -1,2 +1,1 @@
-# DIGO-token-
-Quantum blockchain design
+Video : https://youtube.com/c/izakxyz
